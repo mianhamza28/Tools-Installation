@@ -1,5 +1,3 @@
-Here's the **complete, corrected, and optimized** Nexus installation guide with Java 17 installation and proper user account setup:
-
 ### **Complete Nexus Installation on Ubuntu**
 
 #### **1. Install Java 17 (Prerequisite)**
